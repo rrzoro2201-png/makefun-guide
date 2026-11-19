@@ -1,0 +1,16 @@
+Kamu bekerja di folder C:\makefun-kit\makefun-guide, repo GitHub publik baru atas nama rrzoro2201-png (https://github.com/rrzoro2201-png/makefun-guide, masih kosong).
+
+Tugas: tulis panduan getting-started make.fun sebagai README.md (bahasa Inggris), untuk bounty make.fun "Bring the humans again" (bring-the-humans-02).
+
+1. Baca dulu starter di C:\makefun-kit\bring-the-humans-02-kit\starter\README.md — itu titik awal, BUKAN entri: jangan disalin mentah. Tulis ulang dengan kata-katamu sendiri, potong dan tambah tipsmu.
+2. Tulis README.md sebagai DRAFT dulu, lalu REVISI di pesan berikutnya (file ini harus ditulis/diedit dalam minimal 2 pesan).
+3. Isi wajib:
+   - Judul: # makefun-guide
+   - 3 baris badge make.fun di bawah judul (owner rrzoro2201-png, repo makefun-guide).
+   - Panduan lengkap: apa itu make.fun, cara buat akun, cara pilih bounty, cara ambil kit, cara build entri, cara submit, cara klaim hadiah.
+   - Link referral saya: https://make.fun/r/cfgj2me6 dan kode referral cfgj2me6 (tulis keduanya, jelas terlihat).
+   - Bagian "Run it" dan footer dengan link referral.
+   - Semua fakta harus benar.
+4. Buat file LICENSE berisi lisensi MIT.
+5. Inisialisasi git di folder ini (git init), remote origin https://github.com/rrzoro2201-png/makefun-guide.git, commit dan push ke branch main.
+6. JANGAN buat screenshot.png dulu — itu langkah setelah push, saya yang perintahkan nanti.
